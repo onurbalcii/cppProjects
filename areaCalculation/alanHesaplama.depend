@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681299428 source:e:\codeblocks projeler\alanhesaplama\main.cpp
+	<iostream>
+	<math.h>
+

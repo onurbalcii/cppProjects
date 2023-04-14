@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1680810871 source:c:\users\onurb\onedrive\masaüstü\wordreverseprintingproject\main.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1680810871 c:\users\onurb\onedrive\masaüstü\wordreverseprintingproject\header.h
+	<bits/stdc++.h>
+
+1680811085 source:c:\users\onurb\onedrive\masaüstü\wordreverseprintingproject\header.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1680810871 source:c:\users\onurb\onedrive\masaüstü\cpp projeler\wordreverseprintingproject\main.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1680810871 c:\users\onurb\onedrive\masaüstü\cpp projeler\wordreverseprintingproject\header.h
+	<bits/stdc++.h>
+

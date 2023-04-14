@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1679464848 source:c:\users\onurb\onedrive\masaüstü\gasmileageproject\main.cpp
+	<iostream>
+	"head.h"
+
+1679464840 c:\users\onurb\onedrive\masaüstü\gasmileageproject\head.h
+	<iostream>
+
+1679464858 source:c:\users\onurb\onedrive\masaüstü\gasmileageproject\head.cpp
+	<iostream>
+	<iomanip>
+	"head.h"
+
+1679465480 source:c:\users\onurb\onedrive\masaüstü\cpp projeler\gasmileageproject\head.cpp
+	<iostream>
+	<iomanip>
+	"head.h"
+
+1679464840 c:\users\onurb\onedrive\masaüstü\cpp projeler\gasmileageproject\head.h
+	<iostream>
+
+1679464848 source:c:\users\onurb\onedrive\masaüstü\cpp projeler\gasmileageproject\main.cpp
+	<iostream>
+	"head.h"
+

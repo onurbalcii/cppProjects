@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1680672845 source:c:\users\onurb\onedrive\masaüstü\maxgradeproject\main.cpp
+	<iostream>
+	"maxi.h"
+
+1680672901 c:\users\onurb\onedrive\masaüstü\maxgradeproject\maxi.h
+	<string>
+

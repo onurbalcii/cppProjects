@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1679466516 source:c:\users\onurb\onedrive\masaüstü\creditlimitcalculator\main.cpp
+	<iostream>
+	"head.h"
+
+1679466516 c:\users\onurb\onedrive\masaüstü\creditlimitcalculator\head.h
+	<iostream>
+

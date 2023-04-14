@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1680736464 source:c:\users\onurb\onedrive\masaüstü\calculatorproject\main.cpp
+	<bits/stdc++.h>
+	"head.h"
+
+1680736501 c:\users\onurb\onedrive\masaüstü\calculatorproject\head.h
+	<bits/stdc++.h>
+

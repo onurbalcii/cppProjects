@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1680794674 source:c:\users\onurb\onedrive\masaüstü\guessnumberproject\main.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1680794674 c:\users\onurb\onedrive\masaüstü\guessnumberproject\header.h
+	<bits/stdc++.h>
+
+1680795717 source:c:\users\onurb\onedrive\masaüstü\guessnumberproject\header.cpp
+	<bits/stdc++.h>
+	"header.h"
+

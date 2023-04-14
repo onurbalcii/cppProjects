@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1680065219 source:c:\users\onurb\onedrive\masaüstü\project5\head.cpp
+
+1680065286 source:c:\users\onurb\onedrive\masaüstü\project5\main.cpp
+	<iostream>
+	"head.h"
+
+1680065286 c:\users\onurb\onedrive\masaüstü\project5\head.h
+	<iostream>
+

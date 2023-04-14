@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1680738014 source:c:\users\onurb\onedrive\masaüstü\wordgameproject\main.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1680738014 c:\users\onurb\onedrive\masaüstü\wordgameproject\header.h
+	<bits/stdc++.h>
+
+1680740698 source:c:\users\onurb\onedrive\masaüstü\wordgameproject\header.cpp
+	<bits/stdc++.h>
+	"header.h"
+

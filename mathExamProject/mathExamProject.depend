@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1680676135 source:c:\users\onurb\onedrive\masaüstü\mathexamproject\main.cpp
+	<iostream>
+	<cstdlib>
+	"maxi.h"
+
+1680676135 c:\users\onurb\onedrive\masaüstü\mathexamproject\maxi.h
+	<string>
+
+1680676362 source:c:\users\onurb\onedrive\masaüstü\mathexamproject\maxi.cpp
+	<iostream>
+	<cstdlib>
+	"maxi.h"
+
